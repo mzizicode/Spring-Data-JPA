@@ -24,5 +24,6 @@ You you learn everything there is to learn about Spring Data JPA allowing to bui
 
 ![Screenshot 2020-12-23 at 18 51 32](https://user-images.githubusercontent.com/90879678/147013810-60e8310f-3b47-4746-a458-4c5cc356c5e0.png)
 
+How Spring Data JPA Works
 
 ![Screenshot 2020-12-23 at 18 51 44](https://user-images.githubusercontent.com/90879678/147013824-59e73607-cee2-4f8d-83a2-33eb90b68f76.png)
